@@ -1,0 +1,29 @@
+The Student Research Computing Assistant is a chatbot system designed to help students understand and navigate research computing resources.
+
+Students can ask questions about internship programs, research computing services, application deadlines, and general academic support.
+
+Research computing provides high performance computing clusters, GPU resources, cloud services, and data storage for student projects and academic research.
+
+The internship program offers opportunities for students to work with researchers on real-world projects, improving both technical and professional skills.
+
+Students are encouraged to prepare a strong resume, highlight programming experience, and demonstrate interest in research when applying for internships.
+
+The application process typically includes submitting an online form, a resume, and a short personal statement describing the student's goals.
+
+Common programming languages used in research computing include Python, C++, Java, R, and MATLAB.
+
+Python is widely used for data analysis, machine learning, scientific computing, and automation.
+
+Students can access research computing resources through web portals, secure shell (SSH) connections, and command line interfaces.
+
+Proper data management practices are important, including organizing project files, backing up data regularly, and following security guidelines.
+
+Students should always follow acceptable use policies when using computing resources and protect confidential research data.
+
+Time management and communication skills are essential for success in research and internship environments.
+
+Students should not hesitate to ask for help from supervisors, mentors, or support staff when encountering technical difficulties.
+
+Good documentation and clear code structure improve collaboration and long-term maintainability of research projects.
+
+The chatbot aims to provide quick, accurate, and helpful answers to common student questions using retrieval augmented generation.
